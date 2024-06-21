@@ -8,6 +8,7 @@ Currently, this repository includes:
 - `weatherData.csv`: Raw data file containing weather data from Australia.
 - Python scripts:
   - `unique.py`: Script for getting unique data and pulling information from csv.
+  - `pressue.py`: Script that calculates different pressures and the probability of rainfall.
 
 ## Planned Updates
 
