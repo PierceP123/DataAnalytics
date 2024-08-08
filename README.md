@@ -20,3 +20,4 @@ Each script will be accompanied by a brief explanation of its purpose and usage.
 To use the scripts in this repository:
 1. Clone the repository.
 2. Run the scripts in your Python environment.
+3. Feel free to add to this repository for data manipulation.
