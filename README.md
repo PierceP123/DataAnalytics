@@ -9,6 +9,8 @@ Currently, this repository includes:
 - Python scripts:
   - `unique.py`: Script for getting unique data and pulling information from csv.
   - `pressue.py`: Script that calculates different pressures and the probability of rainfall.
+  -  `subdataframe.py`: Script that filters the weather data to exclude rows with 3-letter values in specified columns and returns a subset of the dataset.
+
 
 ## Planned Updates
 
